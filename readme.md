@@ -9,7 +9,7 @@ this is why i dont even use css, if you use a terminal browser as previously men
 
 because it uses no css, it uses your system font. dyslexic and need a special font? no problem!
 
-one barrier i would love to break is **language**, however i only speak english and am ~~definetely not i swear~~ procrastionating on dutch and german. if you wish to help break this barrier. feel free to contribute, just see the instructions
+one barrier i would love to break is **language**, however i only speak english and am ~~definetely not i swear~~ procrastionating on dutch and german. if you wish to help break this barrier, feel free to contribute. just see the instructions
 
 ## language contributing instructions
 - make a folder and name it the iso 2 letter code (i am aware of a language with only a 3 letter code, if thats the case for your language just do that. its fine.) 
